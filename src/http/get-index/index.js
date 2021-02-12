@@ -16,9 +16,7 @@ let body = `
   </head>
   <body>
 
-    <h1 class="center-text">
-      <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+    <h1 class="center-text">yo tony!! 🔥💎
     </h1>
 
     <p class="center-text">
